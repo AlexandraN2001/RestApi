@@ -1,0 +1,16 @@
+# Ignore virtual environments
+.venv/
+__pycache__/
+
+# Python configuration files and folders
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment and local configuration files
+.env
+*.db
+
+# Ignore other unnecessary files
+.DS_Store
+*.log
